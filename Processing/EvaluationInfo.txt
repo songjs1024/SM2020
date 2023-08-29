@@ -1,0 +1,5 @@
+F:\1_AIAdvisorData\SpaceMold3_0210\Validated\Set28\Input.dat
+19
+132807
+F:\1_AIAdvisorData\SpaceMold3_0210\Validated\Set28\Model9_G3_M9_P1.bestCase
+F:\1_AIAdvisorData\SpaceMold3_0210\Trained\Set28\vRate
