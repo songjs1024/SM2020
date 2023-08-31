@@ -13,7 +13,7 @@
 	- 사출성형 공정세팅을 위한 인공지능 모델 개발
 	- 금형설계 최적화 시스템 개발
 
-![image](https://github.com/songjs1024/SM2020/assets/33867367/8820edbb-85d4-44ef-b7dc-6d6c70c1b98c)
+
 
 
 *Contents
